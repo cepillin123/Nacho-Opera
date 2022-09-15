@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\resta\resta\bin\Debug\resta.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\resta\resta\bin\Debug\resta.pdb
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\resta\resta\obj\Debug\resta.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\resta\resta\obj\Debug\resta.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\resta\resta\obj\Debug\resta.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\resta\resta\obj\Debug\resta.pdb
