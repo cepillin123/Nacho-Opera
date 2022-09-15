@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\bin\Debug\Nacho inegrado.exe.config
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\bin\Debug\Nacho inegrado.exe
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\bin\Debug\Nacho inegrado.pdb
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\bin\Debug\multiplicaion.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\bin\Debug\resta.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\bin\Debug\Suma.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\bin\Debug\multiplicaion.pdb
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\bin\Debug\resta.pdb
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\bin\Debug\Suma.pdb
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\obj\Debug\Nacho inegrado.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\obj\Debug\Nacho inegrado.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\obj\Debug\Nacho inegrado.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\obj\Debug\Nacho inegrado.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\obj\Debug\Nacho inegrado.exe
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Nacho inegrado\Nacho inegrado\obj\Debug\Nacho inegrado.pdb

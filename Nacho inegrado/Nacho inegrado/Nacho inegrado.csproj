@@ -36,6 +36,9 @@
     <Reference Include="multiplicaion">
       <HintPath>..\..\multiplicaion\multiplicaion\bin\Debug\multiplicaion.dll</HintPath>
     </Reference>
+    <Reference Include="resta">
+      <HintPath>..\..\resta\resta\bin\Debug\resta.dll</HintPath>
+    </Reference>
     <Reference Include="Suma">
       <HintPath>..\..\Suma\Suma\bin\Debug\Suma.dll</HintPath>
     </Reference>
