@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\multiplicaion\multiplicaion\bin\Debug\multiplicaion.dll
+C:\Users\Usuario\source\repos\multiplicaion\multiplicaion\bin\Debug\multiplicaion.pdb
+C:\Users\Usuario\source\repos\multiplicaion\multiplicaion\obj\Debug\multiplicaion.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\multiplicaion\multiplicaion\obj\Debug\multiplicaion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\multiplicaion\multiplicaion\obj\Debug\multiplicaion.dll
+C:\Users\Usuario\source\repos\multiplicaion\multiplicaion\obj\Debug\multiplicaion.pdb
