@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Suma\Suma\bin\Debug\Suma.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Suma\Suma\bin\Debug\Suma.pdb
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Suma\Suma\obj\Debug\Suma.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Suma\Suma\obj\Debug\Suma.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Suma\Suma\obj\Debug\Suma.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Nacho-Opera\Suma\Suma\obj\Debug\Suma.pdb
